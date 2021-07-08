@@ -1,6 +1,5 @@
-
 export interface IRebate {
-    name: string;
-    amount: number;
-    [x: string]: any;
+  name: string;
+  amount: number;
+  [x: string]: any;
 }
